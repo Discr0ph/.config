@@ -1,3 +1,3 @@
 # Config
 
-Config files, feel free to use
+# Config files, feel free to use
